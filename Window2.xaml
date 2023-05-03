@@ -1,0 +1,17 @@
+﻿<Window x:Class="MooreMediaPlayer.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MooreMediaPlayer"
+        mc:Ignorable="d"
+        Title="New Album"
+        Height="300" Width="400"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="SingleBorderWindow">
+    <Grid>
+        <TextBlock Text="You will put sum here"/>
+    </Grid>
+</Window>
